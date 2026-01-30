@@ -30,7 +30,7 @@ O projeto foi desenvolvido com foco em **UI/UX atual**, animações suaves e efe
 ### Passo a passo
 
 ```bash
-git clone https://github.com/SEU-USUARIO/gta6-countdown.git
+git clone https://github.com/thiago-ribeiro1/gta6-countdown.git
 ```
 ```bash
 cd gta6-countdown
