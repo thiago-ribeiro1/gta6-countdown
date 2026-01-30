@@ -16,7 +16,6 @@ O projeto foi desenvolvido com foco em **UI/UX atual**, animações suaves e efe
 - **Next.js (React)**
 - **TypeScript**
 - **GSAP + ScrollTrigger** (parallax 3D)
-- **CSS moderno (sem bibliotecas desnecessárias)**
 - **Web APIs** (Pointer Events, Web Share API com fallback)
 
 ---
