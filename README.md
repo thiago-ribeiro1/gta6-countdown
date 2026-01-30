@@ -2,12 +2,12 @@
 
 Website para exibir a **contagem regressiva oficial do lançamento do GTA VI**, calculada em **horário do Brasil (BRT)**, com uma **interface moderna, responsiva e interativa**.
 
-<img width="1914" height="1010" alt="Image" src="https://github.com/user-attachments/assets/e61c3b1c-c29b-45b5-9d9f-ccbc78a26c62" />
-
 O projeto foi desenvolvido com foco em **UI/UX atual**, animações suaves e efeitos visuais avançados, como **carousel fullscreen**, **parallax 3D com GSAP** e layout adaptado para diferentes dispositivos.
 
 🔗 **Acesse o site:**  
 👉 
+
+<img width="1914" height="904" alt="Image" src="https://github.com/user-attachments/assets/db89f1f0-2472-4c86-9202-40b01d70d384" />
 
 ---
 
