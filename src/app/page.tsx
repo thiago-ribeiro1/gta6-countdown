@@ -24,7 +24,10 @@ export default function Page() {
             { src: "/slide-3.jpg", alt: "Slide 3" },
             { src: "/slide-4.jpg", alt: "Slide 4" },
             { src: "/slide-5.jpg", alt: "Slide 5" },
-            { src: "/slide-6.jpg", alt: "Slide 6" }
+            { src: "/slide-6.jpg", alt: "Slide 6" },
+            { src: "/slide-7.jpg", alt: "Slide 7" },
+            { src: "/slide-8.jpg", alt: "Slide 8" },
+            { src: "/slide-9.jpg", alt: "Slide 9" } 
           ]}
         />
 
